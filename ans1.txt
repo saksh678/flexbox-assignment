@@ -1,0 +1,13 @@
+ans. 
+    flexbox:- flexbox is primarily design for one dimentional layout, giving space and aligning items 
+    alone the single axis(either horizontaly or vertically).
+    grid:- css grid is design for two dimentional layout, allowing you to define both rows and columns.
+           css grid is ideal of complex based design like magnazing layout , forms , and any layout 
+           where content need to be placed in a precise grid structure.
+    choosing between flexbox and grid depend on your specific layout requirement:-
+    flexbox when you use in a single axis. such as when you create a navbar, header then you use
+    flexbox for one dimensional layout.
+    if you want to create two dimensional layout such as it have multiple column and row, then you 
+    use grid css beacuse it's work in a both dimension. (rows and column).
+    Or somehow do you need to apply both the css grid and flexbox in a single project, on the based
+    of the requirement.

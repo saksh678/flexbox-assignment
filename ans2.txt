@@ -1,0 +1,14 @@
+ans..
+1.justify-content:- the justify-content is the property of flexbox when we want to move our  
+  object respect to the parent container alone the main axis.there are several value for justify-content: flex-end,flex-start,
+  center,space-around,sapce-between and space evenly.
+2.align-items:- the align-items is the property of flexbox when we want to move our  
+  object respect to the parent container alone the cross axis. there are several value for justify-content: flex-end,flex-start,
+  center,space-around,sapce-between and space evenly.
+3. the gap:- the gap property is use to define space between flex items in both directions, both along
+   the main axis and cross axis.
+4. flex-directions:- the flex-directions is a property of flex. when we want to align our object directions
+   such as row, column, row-reverse, column-reverse.
+5.flex-wrap:- the flex-wrap property controls whether flex-items are allowed to wrap into multiple
+  lines within the container when they don't fit along the main axis.it expected value like wrap,
+  nowrap, wrap-reverse.
